@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm 4.year computer engineering student .<br>I have worked on Front-end section in the past and now <br>I am developing myself on Data Science.
+I'm master computer science student .<br>I have worked on Front-end section in the past and now <br>I am developing myself on Data Science.
 
 
 ## 🌐 Socials:
